@@ -1,0 +1,24 @@
+_repo: Georgia-Its-History-Condition-and-Resources_48868
+creator:
+  author:
+    agent_name: Drake, Samuel Adams
+    alias: Drake, Samuel A.
+    birthdate: 1833
+    deathdate: 1905
+    gutenberg_agent_id: '26710'
+    url: http://www.gutenberg.org/2009/agents/26710
+description: ''
+gutenberg_issued: '2015-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48868'
+  lccn: '01007675'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F206'
+- !lcsh 'Georgia -- Description and travel'
+title: 'Georgia: Its History, Condition and Resources'
+url: http://www.gutenberg.org/ebooks/48868
