@@ -1,4 +1,8 @@
 _repo: Georgia-Its-History-Condition-and-Resources_48868
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48868-h/images/cover.jpg
 creator:
   author:
     agent_name: Drake, Samuel Adams
@@ -8,6 +12,8 @@ creator:
     gutenberg_agent_id: '26710'
     url: http://www.gutenberg.org/2009/agents/26710
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48868#Georgia-Its-History-Condition-and-Resources
 gutenberg_issued: '2015-05-05'
 gutenberg_type: Text
 identifiers:
